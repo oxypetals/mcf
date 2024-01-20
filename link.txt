@@ -1,0 +1,6 @@
+copy paste this comfyhouse.serverminer.com
+
+
+
+port (if needed)
+26540
